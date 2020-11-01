@@ -46,3 +46,6 @@ this is horizontla line
 [my link] (http://www.google.com)
 
 ![alt text](image.png)
+
+- [x] A
+- [ ] B
